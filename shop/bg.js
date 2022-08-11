@@ -111,7 +111,7 @@ export default {
     "shop_menu": {
       "orders_history": "История на поръчките",
       "profile": "Моят профил",
-      "favorites": "Любими предмети",
+      "favorites": "Любими продукти",
       "gift_cards": "Подаръчни карти",
       "return_requests": "Върнати поръчки",
       "basket": "Карта за пазаруване"
@@ -125,7 +125,7 @@ export default {
     "login_to_shop": "Влезте в магазина",
     "login_to_shop_short": "Влизане",
     "item_in_basket_message": "{count} Този артикул е във вашата количка.",
-    "search_title": "Търсете в магазин {shop_name}"
+    "search_title": "Търсете в магазина {shop_name}"
   },
   "basket_top_menu": {
     "basket": "Количка",
@@ -134,7 +134,7 @@ export default {
     "view_basket": "Вашата количка",
     "more": "Повече ▼ ...",
     "accept_and_pay": "Разгледайте",
-    "items": "артикул(и)"
+    "items": "продукт(и)"
   },
   "history_orders_physical": {
     "rejected": "Отхвърлено",
@@ -149,7 +149,7 @@ export default {
   "history_orders": {
     "table": {
       "code": "Код за поръчка",
-      "items": "Предмети",
+      "items": "продукти",
       "reserved": "Дата",
       "delivery_state": "Последно състояние",
       "price": "Обща цена",
@@ -457,8 +457,8 @@ export default {
     "message": "Можете да получите един подарък на поръчка."
   },
   "coupons": {
-    "coupon_code": "Код на купон",
-    "add_coupon": "Добавете купон"
+    "coupon_code": "Код за отстъпка",
+    "add_coupon": "Добавете купон за отстъпка"
   },
   "avocado": {
     "not_enable": "Формулярът за авокадо не е активиран!",
